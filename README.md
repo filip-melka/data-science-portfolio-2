@@ -1,5 +1,16 @@
 # Data Science Portfolio 2
 
+## Setup
+
+Requires [uv](https://docs.astral.sh/uv/).
+
+```bash
+uv sync --group dev
+uv run jupyter notebook
+```
+
+This installs all dependencies (including the Jupyter kernel) into a managed virtual environment and launches the notebook server.
+
 ## 1. Premier League Over/Under 2.5 Goals
 
 `premier_league.ipynb`
