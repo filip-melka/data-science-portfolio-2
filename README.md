@@ -60,6 +60,8 @@ A browser-based Flappy Bird clone controlled by flipping the bird at your webcam
 - [Game](https://filip-melka.github.io/flippin-bird/) (should work on Google Chrome)
 - [Repository](https://github.com/filip-melka/flippin-bird)
 
+![flippin bird banner](./docs/assets/flippin-bird.png)
+
 ---
 
 ## 4. Stock Price Direction Prediction
@@ -122,3 +124,5 @@ uv run python app.py
 ```
 
 The app loads `model.keras` at startup — run the notebook first to generate it.
+
+![bsky banner](./docs/assets/bsky.png)
